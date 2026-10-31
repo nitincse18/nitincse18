@@ -14,7 +14,7 @@
 - 🌱 I'm currently exploring **AI agents, automation and system design at scale**
 - 💼 Previously at **EC-Council, OLX and LinkCXO Global**
 - 📍 Based in **Bangalore, India**
-- ⚡ Fun fact: I came into tech from a merchandising background
+- 🎓 Background in **Computer Science Engineering**
 
 ## 🌐 Socials:
 
